@@ -23,3 +23,11 @@ public extension UIView {
     }
     
 }
+
+
+public class ViewExt {
+    
+    public func printSomething() {
+        print("updated to 1.1.0")
+    }
+}
